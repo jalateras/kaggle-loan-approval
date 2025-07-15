@@ -1,0 +1,4 @@
+catboost_info/
+*.cbm
+__pycache__/
+.ipynb_checkpoints/
